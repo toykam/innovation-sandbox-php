@@ -53,7 +53,7 @@ Below is a sample with test data;
 use InnovationSandbox\Atlabs\Airtime;
 $instance1 = new Airtime();
 
-$this->instance1->SendAirtime(
+$instance1->SendAirtime(
     '',
    'your sandbox_key',
     [
